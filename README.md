@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! I’m Mehmet Enes Tiske, a third-year Computer Engineering student at Gazi University. I’m passionate about learning and honing my skills in software development, and I believe in hands-on experience. As a student, I enjoy taking on clone projects to learn and practice new technologies, and this Amazon clone is one of my projects aimed at understanding the intricacies of e-commerce platforms.
+Hello! I’m Enes Tiske, a third-year Computer Engineering student at Gazi University. I’m passionate about learning and honing my skills in software development, and I believe in hands-on experience. As a student, I enjoy taking on clone projects to learn and practice new technologies, and this Amazon clone is one of my projects aimed at understanding the intricacies of e-commerce platforms.
 
 ## Project Overview
 
@@ -42,21 +42,24 @@ After cloning this repository, navigate to the `flutter-amazon-clone-tutorial` f
 
 3. **Create Cloudinary Project**  
    - Create a Cloudinary account and project, enabling unsigned operations in the settings.
-   - In `lib/features/admin/services/admin_services.dart`, replace `denfgaxvg` and `uszbstnu` with your Cloud Name and Upload Preset, respectively.
+   - In `lib/features/admin/services/admin_services.dart`, replace `dpubyzvcm` and `vtlwp3yd` with your Cloud Name and Upload Preset, respectively.
 
 4. **Run the App**
 
-   **Server Side**
-   ```bash
-   cd server
-   npm install
-   npm run dev  # for continuous development
+**Server Side**
+```bash
+cd server
+npm install
+npm run dev  # for continuous development
+```
+
    
 **Client Side**
 ```bash
 flutter pub get
 open -a simulator  # for iOS Simulator
 flutter run
+```
 
 
 ## Contact
